@@ -7,7 +7,7 @@ from discord.ext import commands
 load_dotenv()
 
 
-TARGET_USER_ID = 123456789012345678
+TARGET_USER_ID = 430016439722967041
 
 bot = commands.Bot(command_prefix='!', intents=discord.Intents.all())
 
